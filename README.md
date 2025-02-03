@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying at Atlas School to become a software engineer.<br>I'm currently working on a static-site generator that converts raw markdown and html to a website. <br>I have a BS in Materials Science and Engineering with a Double Major in Biomedical Engineering from Carnegie Mellon University.<br>My current tier of study at Atlas School is high-level concepts taught in Python and Javascript with touches of CSS, HTML, and MySQL.<br>
+I'm currently studying at Atlas School to become a software engineer.<br>I have a BS in Materials Science and Engineering with a Double Major in Biomedical Engineering from Carnegie Mellon University.<br>My focus of study is low-level coding in C.<br>
 
 
 ## 🌐 Socials:
