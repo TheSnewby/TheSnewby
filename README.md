@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying at Atlas School to become a software engineer.<br>I have a BS in Materials Science and Engineering with a Double Major in Biomedical Engineering from Carnegie Mellon University.<br>My focus of study is low-level coding in C.<br>
+Software Developer at OneSVS.<br>Recently graduated from Atlas School of Software with a focus in low-level systems. I have a BS in Materials Science and Engineering with a Double Major in Biomedical Engineering from Carnegie Mellon University.<br>
 
 
 ## 🌐 Socials:
