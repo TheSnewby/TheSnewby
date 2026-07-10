@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer at OneSVS.<br>Recently graduated from Atlas School of Software with a focus in low-level systems. I have a BS in Materials Science and Engineering with a Double Major in Biomedical Engineering from Carnegie Mellon University.<br>
+Software Developer at OneSVS.<br>Recently graduated from Atlas School of Software with a focus in low-level systems.<br>BS in Materials Science and Engineering with a Double Major in Biomedical Engineering from Carnegie Mellon University.<br>
 
 
 ## 🌐 Socials:
